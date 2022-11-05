@@ -28,6 +28,7 @@ This project was developed with the following technology:
 ## 💻 Project
 
 The Cup calendar is a project that shows the 2022 World Cup games.
+Web project: https://barbosathaissa.github.io/NLW-Copa/
 
 ## Layout
 
